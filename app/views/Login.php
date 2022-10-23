@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
-		<title>Sistema PDV - Arnobio</title>
+		<title>Sistema RIEL</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">		
 		<!--css-->
